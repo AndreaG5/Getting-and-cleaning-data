@@ -2,8 +2,8 @@ This code book summarize the data stored in tidy_mean.txt
 
 ## Identifiers
 
--Subject: the ID of tested subject
--Code: The type of activity performed when the measurements were taken
+* Subject: the ID of tested subject
+* Code: The type of activity performed when the measurements were taken
 
 ## Measurement
 
