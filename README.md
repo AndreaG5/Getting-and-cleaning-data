@@ -6,3 +6,5 @@
 4. Extract mean and standard deviation for each measurement.
 5. Label the data set with descriptive variable name taken from the code book.
 6. Create a second data set with the average of each variable for each activity and each subject.
+ 
+ The result is stored in "tidy_mean.txt"
